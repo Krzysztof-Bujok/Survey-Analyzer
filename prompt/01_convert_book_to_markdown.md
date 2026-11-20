@@ -9,7 +9,7 @@ Zamień książkę `materials/Rafy_metodologiczne_Wieczorkowska_Wierzbinska_Graz
 - Plik źródłowy (PDF) traktuj jako wyłącznie do odczytu — nie modyfikuj go ani nie usuwaj.
 - Zapisuj wyłącznie w `output/materials/` (plik wynikowy i notatka); nie twórz plików poza tym katalogiem.
 - Nie wymyślaj treści, której nie ma w książce. Nie streszczaj — konwertuj pełny tekst. Zachowuj oryginalne nazwy rozdziałów i sekcji.
-- Nie zakładaj konkretnej biblioteki (np. Docling): przeanalizuj środowisko (skills, umiejętności, narzędzia, biblioteki), wybierz narzędzie do konwersji PDF z obrazkami do markdowna z adnotacjami tekstowymi i użyj go, jeśli już istnieje; jeśli nie istnieje — utwórz środowisko z wymaganymi bibliotekami.
+- Nie zakładaj konkretnej biblioteki, przeanalizuj środowisko (skills, umiejętności, narzędzia, biblioteki), wybierz narzędzie do konwersji PDF z obrazkami do markdowna z adnotacjami tekstowymi i użyj go, jeśli już istnieje; jeśli nie istnieje — utwórz środowisko z wymaganymi bibliotekami.
 
 ## 🔄 Podział pracy (środowisko, wykonanie, weryfikacja)
 1. **Środowisko**: wybierz albo utwórz środowisko i narzędzie konwersji.
